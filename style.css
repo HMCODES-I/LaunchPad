@@ -500,11 +500,3 @@ footer {
     width: 100%;
   }
 }
-
-
-/* Step 2 visual-only controls. Functionality is added in Step 3. */
-.search-static { width: 320px; padding: 10px 13px; border: 1px solid #dfe3ec; border-radius: 10px; background: #ffffff; color: #98a2b3; font-size: 12px; }
-.filter { display: inline-block; cursor: default; }
-.save { display: inline-block; cursor: default; }
-.result-count-static { color: #98a2b3; font-size: 12px; }
-@media (max-width: 600px) { .search-static { width: 100%; } }
